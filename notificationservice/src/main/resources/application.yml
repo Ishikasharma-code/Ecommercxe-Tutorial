@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: notificationservice  # must match filename in config repo
+  config:
+    import: optional:configserver:http://localhost:8888
