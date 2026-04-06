@@ -33,8 +33,7 @@ Services communicate using REST APIs and are registered with a discovery server.
 3. Start API Gateway
 4. Start all other services one by one
 
-## GitHub Repository
-(Add your GitHub link here)
+
 
 ## Conclusion
 This project helps in understanding microservices, service discovery, and distributed systems.
